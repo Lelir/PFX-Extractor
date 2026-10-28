@@ -1,0 +1,9 @@
+[package]
+name = "pfx-extractor"
+version = "0.0.3"
+edition = "2021"
+authors = ["Tobias Rouiller"]
+
+[dependencies]
+eframe = "0.31"
+rand = "0.8"

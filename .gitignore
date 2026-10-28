@@ -1,0 +1,7 @@
+/target/
+# Certificats et clés privées : ne pas les publier
+*.pfx
+*.p12
+*.key
+*.crt
+*_extracted/
